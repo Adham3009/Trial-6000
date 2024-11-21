@@ -1,0 +1,18 @@
+
+
+div
+{
+height: 300px;
+width: 1435px;
+background-image: url(game.png);
+background-attachment: fixed;
+}
+
+body
+{
+background-color: black;
+background-image: url(oma.gif);
+background-repeat: no-repeat;
+background-size: contain;
+background-position-y: 300px;
+}
